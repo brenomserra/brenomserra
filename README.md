@@ -1,5 +1,4 @@
 # Bem-vindo(a) ao meu perfil! 👨🏼‍💻
-
 ### 🔹Me acompanhe nas redes sociais 
 [![Instagram - Mirandev](https://skills.thijs.gg/icons?i=instagram)](https://www.instagram.com/mirandev_tech/) 
 [![LinkedIn - Pessoal](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/breno-miranda-a52587bb/) 
@@ -9,11 +8,18 @@
 [![WhatsApp Business - Mirandev](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=553132257898&text=Ol%C3%A1!%20Tenho%20um%20projeto%20em%20mente!%20%F0%9F%92%A1)
 ### 🔸Acompanhe mais conteúdos em vídeo no canal
 [![Canal do YouTube - Mirandev](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Mirandev-TD)
-
-<h2 align='center'>Linguagens e ferramentas utilizadas
+<h2 align='center'>
+    Linguagens e ferramentas utilizadas
+</h2>    
+<div align='center'>   
 
 ![Ícones de linguagens e ferramentas utilizadas](https://skills.thijs.gg/icons?i=html,css,js,wordpress,sass,tailwind,bootstrap,react,figma)
 
-</h2>
+![Breno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenomserra&show_icons=true&theme=radical)
 
-![Ícones de linguagens e ferramentas utilizadas](https://github-readme-stats.vercel.app/api?username={brenomserra}&theme=blue-green)
+</div>
+
+<!--🔹🔸-->
+<!--🟢🟡🔵-->
+<!--🔵🔴⚪-->
+
